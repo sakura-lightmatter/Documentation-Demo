@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="overview">
+    <title>Overview</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p><image href="../images/output_reflection.png" id="image_w32_g5x_m1c"/></p>
+    </conbody>
+</concept>
